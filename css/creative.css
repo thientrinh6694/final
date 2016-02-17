@@ -572,3 +572,7 @@ footer h3 {
 	height: 20px;
 }
 	
+video {
+    width: 100%;
+    height: auto;
+}
